@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "arial";
+}
+body {
+	background: #ECECEC;
+
+	
+}
+
+h1, form, .lista   {
+	background: #B4FBFF;
+	width: 80%;
+	margin: 10px auto;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+	padding: 10px 0;
+}
+form {
+	width: 70%;
+	padding: 30px 5%;
+
+}
+form .caja {
+	width: 100%;
+	padding: 10px 5%;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+form .caja4 {
+	width: 100%;
+	padding: 10px 5%;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+	color: red;
+	border: 2px solid red;
+	
+
+}
+form .boton {
+	width: 40%;
+	padding: 10px 5%;
+	margin: 0px 25%;
+}
+.lista ul {
+	list-style: none;
+}
+.lista .antes1 li {
+	padding: 10px;
+	border-bottom: 1px solid black;
+}
+.lista .antes1 .a {
+	padding: 10px;
+	border-bottom: 1px solid black;
+	text-decoration:line-through;
+}
